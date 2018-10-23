@@ -1,0 +1,5 @@
+module.exports = {
+  secret: process.env.SECRET,
+  target: process.env.TARGET,
+  expire: process.env.EXPIRE || 3600
+}
