@@ -24,7 +24,7 @@
     "nuxt": "^2.0.0",
     "nuxt-buefy": "^0.2.1",
     "nuxt-fontawesome": "^0.3.0",
-    "otpauth": "^3.2.1",
+    "otpauth": "^3.2.8",
     "qrcode-terminal": "^0.12.0",
     "write-json-file": "^3.0.2"
   },
