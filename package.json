@@ -20,7 +20,7 @@
     "ip-regex": "^3.0.0",
     "js-base64": "^2.4.9",
     "load-json-file": "^5.1.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "nuxt": "^2.0.0",
     "nuxt-buefy": "^0.2.1",
     "nuxt-fontawesome": "^0.3.0",
