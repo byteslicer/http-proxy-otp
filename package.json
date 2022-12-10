@@ -16,7 +16,7 @@
     "body-parser": "^1.18.3",
     "bunyan": "^1.8.12",
     "cross-env": "^5.2.0",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "ip-regex": "^3.0.0",
     "js-base64": "^2.4.9",
     "load-json-file": "^5.1.0",
